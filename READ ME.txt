@@ -1,0 +1,10 @@
+to make a model that is good and having hig accuracy over classification of data into those 9 annotations,we experimented with these models or algorithms
+
+1.SVC
+2.Random Forest
+3.Logistic Regression
+4.GridSearchCV
+5.Bert Transformer (neural network)
+6.Neural network customized 
+
+we finally got the metrics good in bert transformer 
